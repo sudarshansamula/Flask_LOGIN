@@ -1,0 +1,3 @@
+flask
+dijango==1.5
+mysql
